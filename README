@@ -1,15 +1,8 @@
 this project is made by amenallah salem: amenallah.salem@dauphine.tn and mohamed amine gaidi in the context of data flow module evaluation at paris dauphine |tunis  University.
 
 
-In this Repository you will find folder that contains You can find the project discription (outlier detection using flink) at this link: 
+the main bransh you will find the complete scala project and a a folder named "offline_analysis" that contains a jupyter notebook that represents the offline analysis and outliers detection.
 
-
-Our project is devided in two part 
-
-
-the first part under the folder "offline_analysis" a jupyter notebook that represents the offline analysis and outliers detection.
-
-the second part is a flink project that detects outliers under the folder "flink_outlier detection"
 
 
 thank you
