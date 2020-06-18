@@ -1,4 +1,4 @@
-# Exercice prepared for Paris-Dauphine Streaming Module!
+# Project implemented for Paris-Dauphine Streaming Module!
 
 In this repository, you will find all exercices needed for this module
 To start, we first need to setup some Docker images.
